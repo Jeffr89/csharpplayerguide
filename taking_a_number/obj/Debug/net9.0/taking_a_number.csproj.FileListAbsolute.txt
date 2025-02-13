@@ -1,0 +1,14 @@
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/bin/Debug/net9.0/taking_a_number
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/bin/Debug/net9.0/taking_a_number.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/bin/Debug/net9.0/taking_a_number.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/bin/Debug/net9.0/taking_a_number.dll
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/bin/Debug/net9.0/taking_a_number.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.dll
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/refint/taking_a_number.dll
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/taking_a_number.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/taking_a_number/obj/Debug/net9.0/ref/taking_a_number.dll
