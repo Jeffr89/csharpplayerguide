@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "vin_fletchers_arrows/1.0.0": {
+        "runtime": {
+          "vin_fletchers_arrows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vin_fletchers_arrows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

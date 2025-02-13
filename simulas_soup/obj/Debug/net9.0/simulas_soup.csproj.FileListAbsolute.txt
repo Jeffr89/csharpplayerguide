@@ -1,0 +1,14 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/bin/Debug/net9.0/simulas_soup
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/bin/Debug/net9.0/simulas_soup.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/bin/Debug/net9.0/simulas_soup.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/bin/Debug/net9.0/simulas_soup.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/bin/Debug/net9.0/simulas_soup.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/refint/simulas_soup.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/simulas_soup.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/simulas_soup/obj/Debug/net9.0/ref/simulas_soup.dll

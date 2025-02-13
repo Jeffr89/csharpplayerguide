@@ -1,0 +1,14 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/bin/Debug/net9.0/vin_fletchers_arrows
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/bin/Debug/net9.0/vin_fletchers_arrows.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/bin/Debug/net9.0/vin_fletchers_arrows.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/bin/Debug/net9.0/vin_fletchers_arrows.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/bin/Debug/net9.0/vin_fletchers_arrows.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/refint/vin_fletchers_arrows.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/vin_fletchers_arrows.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/vin_fletchers_arrows/obj/Debug/net9.0/ref/vin_fletchers_arrows.dll

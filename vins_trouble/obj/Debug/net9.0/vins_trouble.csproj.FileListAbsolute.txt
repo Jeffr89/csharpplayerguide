@@ -1,0 +1,14 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/bin/Debug/net9.0/vins_trouble
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/bin/Debug/net9.0/vins_trouble.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/bin/Debug/net9.0/vins_trouble.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/bin/Debug/net9.0/vins_trouble.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/bin/Debug/net9.0/vins_trouble.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/refint/vins_trouble.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/vins_trouble.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/vins_trouble/obj/Debug/net9.0/ref/vins_trouble.dll
