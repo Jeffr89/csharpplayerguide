@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/bin/Debug/net9.0/the_color
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/bin/Debug/net9.0/the_color.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/bin/Debug/net9.0/the_color.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/bin/Debug/net9.0/the_color.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/bin/Debug/net9.0/the_color.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/refint/the_color.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/the_color.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_color/obj/Debug/net9.0/ref/the_color.dll

@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/bin/Debug/net9.0/the_point
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/bin/Debug/net9.0/the_point.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/bin/Debug/net9.0/the_point.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/bin/Debug/net9.0/the_point.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/bin/Debug/net9.0/the_point.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/refint/the_point.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/the_point.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_point/obj/Debug/net9.0/ref/the_point.dll
