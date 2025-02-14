@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/bin/Debug/net9.0/arrow_factories
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/bin/Debug/net9.0/arrow_factories.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/bin/Debug/net9.0/arrow_factories.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/bin/Debug/net9.0/arrow_factories.dll
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/bin/Debug/net9.0/arrow_factories.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.dll
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/refint/arrow_factories.dll
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/arrow_factories.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/arrow_factories/obj/Debug/net9.0/ref/arrow_factories.dll

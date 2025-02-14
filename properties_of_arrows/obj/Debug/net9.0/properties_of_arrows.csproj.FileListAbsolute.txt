@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/bin/Debug/net9.0/properties_of_arrows
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/bin/Debug/net9.0/properties_of_arrows.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/bin/Debug/net9.0/properties_of_arrows.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/bin/Debug/net9.0/properties_of_arrows.dll
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/bin/Debug/net9.0/properties_of_arrows.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.dll
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/refint/properties_of_arrows.dll
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/properties_of_arrows.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/properties_of_arrows/obj/Debug/net9.0/ref/properties_of_arrows.dll

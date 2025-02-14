@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "properties_of_arrows", "properties_of_arrows.csproj", "{68580D46-4FF6-3E63-986A-FE2043A57A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68580D46-4FF6-3E63-986A-FE2043A57A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68580D46-4FF6-3E63-986A-FE2043A57A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68580D46-4FF6-3E63-986A-FE2043A57A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68580D46-4FF6-3E63-986A-FE2043A57A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2083DA-82A2-43FF-9286-16B5DFCCD712}
+	EndGlobalSection
+EndGlobal
