@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/bin/Debug/net9.0/the_card
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/bin/Debug/net9.0/the_card.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/bin/Debug/net9.0/the_card.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/bin/Debug/net9.0/the_card.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/bin/Debug/net9.0/the_card.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/refint/the_card.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/the_card.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_card/obj/Debug/net9.0/ref/the_card.dll
