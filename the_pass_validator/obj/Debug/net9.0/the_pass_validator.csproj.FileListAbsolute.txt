@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/bin/Debug/net9.0/the_pass_validator
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/bin/Debug/net9.0/the_pass_validator.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/bin/Debug/net9.0/the_pass_validator.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/bin/Debug/net9.0/the_pass_validator.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/bin/Debug/net9.0/the_pass_validator.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/refint/the_pass_validator.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/the_pass_validator.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_pass_validator/obj/Debug/net9.0/ref/the_pass_validator.dll
