@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/bin/Debug/net9.0/tic_tac_toe
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/bin/Debug/net9.0/tic_tac_toe.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/bin/Debug/net9.0/tic_tac_toe.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/bin/Debug/net9.0/tic_tac_toe.dll
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/bin/Debug/net9.0/tic_tac_toe.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.dll
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/refint/tic_tac_toe.dll
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/tic_tac_toe.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/tic_tac_toe/obj/Debug/net9.0/ref/tic_tac_toe.dll
