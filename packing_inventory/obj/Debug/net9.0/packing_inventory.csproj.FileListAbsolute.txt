@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/bin/Debug/net9.0/packing_inventory
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/bin/Debug/net9.0/packing_inventory.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/bin/Debug/net9.0/packing_inventory.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/bin/Debug/net9.0/packing_inventory.dll
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/bin/Debug/net9.0/packing_inventory.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.dll
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/refint/packing_inventory.dll
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/packing_inventory.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/packing_inventory/obj/Debug/net9.0/ref/packing_inventory.dll
