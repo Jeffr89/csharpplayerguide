@@ -11,6 +11,7 @@ for (int i = 0; i < 3; i++)
         "east" => new EastCommand(),
         "west" => new WestCommand(),
         "south" => new SouthCommand(),
+        _ => throw new InvalidOperationException("Invalid command")
     };
 }
 
