@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("packing_inventory")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("the_old_robot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5433c94c332c4f18a37c3c3c901145e05799a2db")]
-[assembly: System.Reflection.AssemblyProductAttribute("packing_inventory")]
-[assembly: System.Reflection.AssemblyTitleAttribute("packing_inventory")]
+[assembly: System.Reflection.AssemblyProductAttribute("the_old_robot")]
+[assembly: System.Reflection.AssemblyTitleAttribute("the_old_robot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

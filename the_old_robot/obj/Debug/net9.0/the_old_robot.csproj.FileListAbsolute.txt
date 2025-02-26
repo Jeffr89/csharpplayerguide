@@ -1,0 +1,15 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/bin/Debug/net9.0/the_old_robot
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/bin/Debug/net9.0/the_old_robot.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/bin/Debug/net9.0/the_old_robot.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/bin/Debug/net9.0/the_old_robot.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/bin/Debug/net9.0/the_old_robot.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.sourcelink.json
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/refint/the_old_robot.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/the_old_robot.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/the_old_robot/obj/Debug/net9.0/ref/the_old_robot.dll
