@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gschianchi/Code/personal/cPlayersGuide/packing_inventory/packing_inventory.csproj",
-      "projectName": "packing_inventory",
-      "projectPath": "/Users/gschianchi/Code/personal/cPlayersGuide/packing_inventory/packing_inventory.csproj",
+      "projectUniqueName": "/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/labeling_inventory.csproj",
+      "projectName": "labeling_inventory",
+      "projectPath": "/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/labeling_inventory.csproj",
       "packagesPath": "/Users/gschianchi/.nuget/packages/",
-      "outputPath": "/Users/gschianchi/Code/personal/cPlayersGuide/packing_inventory/obj/",
+      "outputPath": "/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gschianchi/.nuget/NuGet/NuGet.Config"

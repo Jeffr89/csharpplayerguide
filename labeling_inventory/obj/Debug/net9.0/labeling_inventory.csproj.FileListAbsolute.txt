@@ -1,0 +1,15 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/bin/Debug/net9.0/labeling_inventory
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/bin/Debug/net9.0/labeling_inventory.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/bin/Debug/net9.0/labeling_inventory.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/bin/Debug/net9.0/labeling_inventory.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/bin/Debug/net9.0/labeling_inventory.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.sourcelink.json
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/refint/labeling_inventory.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/labeling_inventory.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/labeling_inventory/obj/Debug/net9.0/ref/labeling_inventory.dll
