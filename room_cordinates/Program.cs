@@ -1,4 +1,4 @@
-﻿
+﻿// adjacent even at an angle
 
 
 Coordinate a = new Coordinate(5, 5);
