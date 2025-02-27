@@ -1,0 +1,15 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/bin/Debug/net9.0/war_preparations
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/bin/Debug/net9.0/war_preparations.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/bin/Debug/net9.0/war_preparations.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/bin/Debug/net9.0/war_preparations.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/bin/Debug/net9.0/war_preparations.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.sourcelink.json
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/refint/war_preparations.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/war_preparations.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/war_preparations/obj/Debug/net9.0/ref/war_preparations.dll
