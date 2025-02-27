@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/bin/Debug/net9.0/robotic_interface
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/bin/Debug/net9.0/robotic_interface.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/bin/Debug/net9.0/robotic_interface.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/bin/Debug/net9.0/robotic_interface.dll
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/bin/Debug/net9.0/robotic_interface.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.dll
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/refint/robotic_interface.dll
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/robotic_interface.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/robotic_interface/obj/Debug/net9.0/ref/robotic_interface.dll

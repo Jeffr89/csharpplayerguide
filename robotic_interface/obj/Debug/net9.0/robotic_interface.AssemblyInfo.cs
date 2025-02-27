@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("tic_tac_toe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("robotic_interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c451230bad484607d622e747a5b90dae26643043")]
-[assembly: System.Reflection.AssemblyProductAttribute("tic_tac_toe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("tic_tac_toe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ad2d3e005f9b8935222e9a643761f1f130ec8e")]
+[assembly: System.Reflection.AssemblyProductAttribute("robotic_interface")]
+[assembly: System.Reflection.AssemblyTitleAttribute("robotic_interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
