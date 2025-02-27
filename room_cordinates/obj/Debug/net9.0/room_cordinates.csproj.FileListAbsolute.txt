@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/bin/Debug/net9.0/room_cordinates
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/bin/Debug/net9.0/room_cordinates.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/bin/Debug/net9.0/room_cordinates.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/bin/Debug/net9.0/room_cordinates.dll
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/bin/Debug/net9.0/room_cordinates.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.dll
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/refint/room_cordinates.dll
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/room_cordinates.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/room_cordinates/obj/Debug/net9.0/ref/room_cordinates.dll
