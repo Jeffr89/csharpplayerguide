@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/bin/Debug/net9.0/colored_items
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/bin/Debug/net9.0/colored_items.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/bin/Debug/net9.0/colored_items.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/bin/Debug/net9.0/colored_items.dll
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/bin/Debug/net9.0/colored_items.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.dll
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/refint/colored_items.dll
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/colored_items.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/colored_items/obj/Debug/net9.0/ref/colored_items.dll
