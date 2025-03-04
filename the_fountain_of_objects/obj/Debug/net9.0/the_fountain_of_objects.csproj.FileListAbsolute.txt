@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/bin/Debug/net9.0/the_fountain_of_objects
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/bin/Debug/net9.0/the_fountain_of_objects.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/bin/Debug/net9.0/the_fountain_of_objects.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/bin/Debug/net9.0/the_fountain_of_objects.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/bin/Debug/net9.0/the_fountain_of_objects.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/refint/the_fountain_of_objects.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/the_fountain_of_objects.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/Debug/net9.0/ref/the_fountain_of_objects.dll

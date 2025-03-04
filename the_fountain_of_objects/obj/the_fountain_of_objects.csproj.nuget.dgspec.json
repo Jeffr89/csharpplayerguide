@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeffry/Code/personal/CPlayerGuide/vin_fletchers_arrows/vin_fletchers_arrows.csproj": {}
+    "/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/the_fountain_of_objects.csproj": {}
   },
   "projects": {
-    "/Users/jeffry/Code/personal/CPlayerGuide/vin_fletchers_arrows/vin_fletchers_arrows.csproj": {
+    "/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/the_fountain_of_objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeffry/Code/personal/CPlayerGuide/vin_fletchers_arrows/vin_fletchers_arrows.csproj",
-        "projectName": "vin_fletchers_arrows",
-        "projectPath": "/Users/jeffry/Code/personal/CPlayerGuide/vin_fletchers_arrows/vin_fletchers_arrows.csproj",
+        "projectUniqueName": "/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/the_fountain_of_objects.csproj",
+        "projectName": "the_fountain_of_objects",
+        "projectPath": "/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/the_fountain_of_objects.csproj",
         "packagesPath": "/Users/jeffry/.nuget/packages/",
-        "outputPath": "/Users/jeffry/Code/personal/CPlayerGuide/vin_fletchers_arrows/obj/",
+        "outputPath": "/Users/jeffry/Code/personal/CPlayerGuide/the_fountain_of_objects/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeffry/.nuget/NuGet/NuGet.Config"

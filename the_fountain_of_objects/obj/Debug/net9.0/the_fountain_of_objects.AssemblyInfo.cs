@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("tic_tac_toe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("the_fountain_of_objects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+776c9086b083f66012a8a0347c263530c85aae83")]
-[assembly: System.Reflection.AssemblyProductAttribute("tic_tac_toe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("tic_tac_toe")]
+[assembly: System.Reflection.AssemblyProductAttribute("the_fountain_of_objects")]
+[assembly: System.Reflection.AssemblyTitleAttribute("the_fountain_of_objects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
