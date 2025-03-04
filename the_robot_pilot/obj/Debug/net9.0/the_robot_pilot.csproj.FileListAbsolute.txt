@@ -1,0 +1,15 @@
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/bin/Debug/net9.0/the_robot_pilot
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/bin/Debug/net9.0/the_robot_pilot.deps.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/bin/Debug/net9.0/the_robot_pilot.runtimeconfig.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/bin/Debug/net9.0/the_robot_pilot.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/bin/Debug/net9.0/the_robot_pilot.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.AssemblyInfoInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.AssemblyInfo.cs
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.csproj.CoreCompileInputs.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.sourcelink.json
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/refint/the_robot_pilot.dll
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.pdb
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/the_robot_pilot.genruntimeconfig.cache
+/Users/jeffry/Code/personal/CPlayerGuide/the_robot_pilot/obj/Debug/net9.0/ref/the_robot_pilot.dll

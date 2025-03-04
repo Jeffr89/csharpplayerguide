@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("hunting_the_manticore")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("the_robot_pilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d56d43c16cfe1de005fa8a8e0d7f2646a887ea")]
-[assembly: System.Reflection.AssemblyProductAttribute("hunting_the_manticore")]
-[assembly: System.Reflection.AssemblyTitleAttribute("hunting_the_manticore")]
+[assembly: System.Reflection.AssemblyProductAttribute("the_robot_pilot")]
+[assembly: System.Reflection.AssemblyTitleAttribute("the_robot_pilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
