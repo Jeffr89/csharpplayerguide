@@ -1,0 +1,15 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/bin/Debug/net9.0/the_feud
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/bin/Debug/net9.0/the_feud.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/bin/Debug/net9.0/the_feud.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/bin/Debug/net9.0/the_feud.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/bin/Debug/net9.0/the_feud.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.sourcelink.json
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/refint/the_feud.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/the_feud.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/the_feud/obj/Debug/net9.0/ref/the_feud.dll
