@@ -1,0 +1,15 @@
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/bin/Debug/net9.0/lists_of_commmands
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/bin/Debug/net9.0/lists_of_commmands.deps.json
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/bin/Debug/net9.0/lists_of_commmands.runtimeconfig.json
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/bin/Debug/net9.0/lists_of_commmands.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/bin/Debug/net9.0/lists_of_commmands.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.AssemblyInfoInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.AssemblyInfo.cs
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.csproj.CoreCompileInputs.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.sourcelink.json
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/refint/lists_of_commmands.dll
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.pdb
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/lists_of_commmands.genruntimeconfig.cache
+/Users/gschianchi/Code/personal/cPlayersGuide/lists_of_commmands/obj/Debug/net9.0/ref/lists_of_commmands.dll
