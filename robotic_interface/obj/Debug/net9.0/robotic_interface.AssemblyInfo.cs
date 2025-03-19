@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("robotic_interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ad2d3e005f9b8935222e9a643761f1f130ec8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d38b1696155f952713e4a48c2a588fbe9a32fc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("robotic_interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("robotic_interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
