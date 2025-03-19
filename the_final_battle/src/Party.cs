@@ -4,12 +4,14 @@ public class Party
     public int NextMemberToPlay { get; private set; } = 0;
 
     public int MemberCount { get; private set; }
+    public PlayerType ControlledBy { get; private set; }
 
 
-    public Party(List<Character> members)
+    public Party(List<Character> members, PlayerType controlledBy)
     {
         Members = members;
         MemberCount = Members.Count;
+        ControlledBy = controlledBy;
     }
 
     public Character GetNextMemberToPlay()
@@ -23,7 +25,11 @@ public class Party
         }
     }
 
-
+    public enum PlayerType
+    {
+        Human,
+        Computer
+    }
 }
 
 

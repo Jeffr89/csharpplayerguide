@@ -16,7 +16,7 @@ public class TheFinalBattleGame
         Party partyToPlay = Heroes;
         while (true)
         {
-            PlayRound(partyToPlay.GetNextMemberToPlay());
+            PlayRound(partyToPlay.GetNextMemberToPlay(), partyToPlay.ControlledBy);
             Thread.Sleep(500);
             Console.WriteLine();
 
@@ -25,10 +25,24 @@ public class TheFinalBattleGame
         }
     }
 
-    public void PlayRound(Character character)
+    public void PlayRound(Character character, Party.PlayerType playerType)
     {
         Console.WriteLine($"It is {character.Name} turn...");
-        character.PlayAction();
+        int actionNumber;
+        if (playerType == Party.PlayerType.Human)
+        {
+            Console.WriteLine("Choose your action:");
+            for (int i = 0; i < character.Actions.Count; i++)
+            {
+                Console.WriteLine($"{i} - {character.Actions[i].Name}");
+            }
+            actionNumber = int.Parse(Console.ReadLine());
+        }
+        else
+        {
+            actionNumber = 0;
+        }
+        character.PlayAction(actionNumber);
     }
 
 }

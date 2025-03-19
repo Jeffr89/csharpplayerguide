@@ -10,9 +10,9 @@ public abstract class Character
         Actions = new List<ICharacterAction>();
     }
 
-    public void PlayAction()
+    public void PlayAction(int actionNumber)
     {
-        Actions[0].Run(this);
+        Actions[actionNumber].Run(this);
     }
 }
 
