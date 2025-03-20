@@ -1,9 +1,21 @@
 public abstract class Character
 {
-    public string Name { get; private set; }
+    public string Name { get; protected set; }
+    public int MaxHP { get; protected set; }
+    public int CurrentHP { get; protected set; }
+
     public List<ICharacterAction> Actions { get; private set; }
 
+    public void GetDamage(int dmg)
+    {
+        if (CurrentHP > 0)
+        {
+            CurrentHP -= dmg;
+        }
 
+        if (CurrentHP < 0) CurrentHP = 0;
+
+    }
     public Character(string name)
     {
         Name = name;
