@@ -4,16 +4,18 @@ public class TheFinalBattleGame
     public Party Monsters { get; private set; }
 
     public Character MonsterToPlay { get; private set; }
+    public Party partyToPlay { get; private set; }
 
     public TheFinalBattleGame(Party heroes, Party monsters)
     {
         Heroes = heroes;
         Monsters = monsters;
+        partyToPlay = Heroes;
     }
 
     public void Run()
     {
-        Party partyToPlay = Heroes;
+
         while (true)
         {
             PlayRound(partyToPlay.GetNextMemberToPlay(), partyToPlay.ControlledBy);
@@ -40,9 +42,9 @@ public class TheFinalBattleGame
         }
         else
         {
-            actionNumber = 0;
+            actionNumber = 1;
         }
-        character.PlayAction(actionNumber);
+        character.PlayAction(actionNumber, this);
     }
 
 }

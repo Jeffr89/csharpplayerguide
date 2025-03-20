@@ -1,3 +1,6 @@
+using System.ComponentModel;
+using System.Diagnostics.Contracts;
+
 public class SkipTurnAction : ICharacterAction
 {
     public string Name { get; set; }

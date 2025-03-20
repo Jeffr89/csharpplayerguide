@@ -10,9 +10,20 @@ public abstract class Character
         Actions = new List<ICharacterAction>();
     }
 
-    public void PlayAction(int actionNumber)
+    public void PlayAction(int actionNumber, TheFinalBattleGame theFinalBattle)
     {
-        Actions[actionNumber].Run(this);
+
+        switch (Actions[actionNumber])
+        {
+            case ICharacterAttackAction attack:
+                Party enemyParty = theFinalBattle.partyToPlay == theFinalBattle.Heroes ? theFinalBattle.Monsters : theFinalBattle.Heroes;
+                attack.Run(this, enemyParty.Members[0]);
+                break;
+            case ICharacterAction action:
+                action.Run(this);
+                break;
+        }
+
     }
 }
 

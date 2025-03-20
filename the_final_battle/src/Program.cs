@@ -10,7 +10,7 @@ heroes.Add(new TrueProgrammer(input.ToUpper()));
 monsters.Add(new Skeleton());
 
 Party heroParty = new Party(heroes, Party.PlayerType.Human);
-Party monsterParty = new Party(monsters, Party.PlayerType.Human);
+Party monsterParty = new Party(monsters, Party.PlayerType.Computer);
 
 Console.Clear();
 
