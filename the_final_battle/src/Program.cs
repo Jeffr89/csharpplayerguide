@@ -9,7 +9,7 @@ string input = Console.ReadLine();
 heroes.Add(new TrueProgrammer(input.ToUpper()));
 monsters.Add(new Skeleton());
 
-Party heroParty = new Party(heroes, Party.PlayerType.Human);
+Party heroParty = new Party(heroes, Party.PlayerType.Computer);
 Party monsterParty = new Party(monsters, Party.PlayerType.Computer);
 
 Console.Clear();

@@ -4,17 +4,26 @@ public abstract class Character
     public int MaxHP { get; protected set; }
     public int CurrentHP { get; protected set; }
 
+    public bool isDead = false;
+
+    public event Action<Character> OnDeath;
+
     public List<ICharacterAction> Actions { get; private set; }
 
-    public void GetDamage(int dmg)
+    public void TakeDamage(int dmg)
     {
         if (CurrentHP > 0)
         {
             CurrentHP -= dmg;
+            Console.WriteLine($"{Name} is now at {CurrentHP}/{MaxHP} HP.");
         }
 
-        if (CurrentHP < 0) CurrentHP = 0;
-
+        if (CurrentHP <= 0)
+        {
+            CurrentHP = 0;
+            Console.WriteLine("PIPPPPO");
+            Die();
+        }
     }
     public Character(string name)
     {
@@ -36,6 +45,14 @@ public abstract class Character
                 break;
         }
 
+
+    }
+
+    public void Die()
+    {
+        isDead = true;
+        Console.WriteLine($"{Name} has been defeated!");
+        OnDeath?.Invoke(this);
     }
 }
 

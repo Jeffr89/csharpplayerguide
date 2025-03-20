@@ -1,6 +1,6 @@
 public class Party
 {
-    public List<Character> Members { get; private set; }
+    public List<Character> Members { get; private set; } = new();
     public int NextMemberToPlay { get; private set; } = 0;
 
     public int MemberCount { get; private set; }
@@ -9,11 +9,25 @@ public class Party
 
     public Party(List<Character> members, PlayerType controlledBy)
     {
-        Members = members;
+        foreach (var member in members)
+        {
+            AddMember(member);
+        }
         MemberCount = Members.Count;
         ControlledBy = controlledBy;
     }
 
+    public void AddMember(Character member)
+    {
+        Members.Add(member);
+        member.OnDeath += RemoveMember;
+    }
+
+    public void RemoveMember(Character member)
+    {
+        Members.Remove(member);
+        MemberCount--;
+    }
     public Character GetNextMemberToPlay()
     {
         if (NextMemberToPlay == MemberCount) NextMemberToPlay = 0;
@@ -24,6 +38,7 @@ public class Party
             return Members[NextMemberToPlay];
         }
     }
+
 
     public enum PlayerType
     {

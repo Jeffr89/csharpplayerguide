@@ -16,15 +16,16 @@ public class TheFinalBattleGame
     public void Run()
     {
 
-        while (true)
+        while (!BattleIsOver())
         {
             PlayRound(partyToPlay.GetNextMemberToPlay(), partyToPlay.ControlledBy);
             Thread.Sleep(500);
             Console.WriteLine();
-
             partyToPlay = partyToPlay == Heroes ? Monsters : Heroes;
 
         }
+
+        CheckWinner();
     }
 
     public void PlayRound(Character character, Party.PlayerType playerType)
@@ -45,6 +46,29 @@ public class TheFinalBattleGame
             actionNumber = 1;
         }
         character.PlayAction(actionNumber, this);
+
+
+    }
+
+    public bool BattleIsOver()
+    {
+        Console.WriteLine(Monsters.MemberCount);
+        if ((Heroes.MemberCount == 0) || (Monsters.MemberCount == 0)) return true;
+        else return false;
+    }
+
+    public void CheckWinner()
+    {
+        if ((Monsters.MemberCount == 0))
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Heroes won! The Uncoded One was defeated!");
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Heroes lost and the Uncoded One's forces has prevailed");
+        }
     }
 
 }
