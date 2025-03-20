@@ -14,14 +14,12 @@ public abstract class Character
     {
         if (CurrentHP > 0)
         {
-            CurrentHP -= dmg;
+            CurrentHP = Math.Max(CurrentHP - dmg, 0);
             Console.WriteLine($"{Name} is now at {CurrentHP}/{MaxHP} HP.");
         }
 
         if (CurrentHP <= 0)
         {
-            CurrentHP = 0;
-            Console.WriteLine("PIPPPPO");
             Die();
         }
     }
@@ -31,7 +29,7 @@ public abstract class Character
         Actions = new List<ICharacterAction>();
     }
 
-    public void PlayAction(int actionNumber, TheFinalBattleGame theFinalBattle)
+    public void PlayAction(int actionNumber, TheFinalBattleGameSingleBattle theFinalBattle)
     {
 
         switch (Actions[actionNumber])

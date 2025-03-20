@@ -1,4 +1,4 @@
-public class TheFinalBattleGame
+public class TheFinalBattleGameSingleBattle
 {
     public Party Heroes;
     public Party Monsters { get; private set; }
@@ -6,12 +6,14 @@ public class TheFinalBattleGame
     public Character MonsterToPlay { get; private set; }
     public Party partyToPlay { get; private set; }
 
-    public TheFinalBattleGame(Party heroes, Party monsters)
+    public TheFinalBattleGameSingleBattle(Party heroes, Party monsters)
     {
         Heroes = heroes;
         Monsters = monsters;
         partyToPlay = Heroes;
     }
+
+
 
     public void Run()
     {
@@ -52,26 +54,36 @@ public class TheFinalBattleGame
 
     public bool BattleIsOver()
     {
-        Console.WriteLine(Monsters.MemberCount);
         if ((Heroes.MemberCount == 0) || (Monsters.MemberCount == 0)) return true;
         else return false;
     }
 
-    public void CheckWinner()
+    public Winner CheckWinner()
     {
         if ((Monsters.MemberCount == 0))
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Heroes won! The Uncoded One was defeated!");
+
+
+            return Winner.Hero;
         }
         else
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Heroes lost and the Uncoded One's forces has prevailed");
+
+            return Winner.UncodedParty;
+
         }
     }
 
 }
+
+public enum Winner
+{
+    Hero,
+    UncodedParty
+}
+
+
 
 
 
