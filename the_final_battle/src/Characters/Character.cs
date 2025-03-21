@@ -1,6 +1,6 @@
-public abstract class Character
+public abstract class Character(string name)
 {
-    public string Name { get; protected set; }
+    public string Name { get; protected set; } = name;
     public int MaxHP { get; protected set; }
     public int CurrentHP { get; protected set; }
 
@@ -8,7 +8,7 @@ public abstract class Character
 
     public event Action<Character> OnDeath;
 
-    public List<ICharacterAction> Actions { get; private set; }
+    public List<ICharacterAction> Actions { get; private set; } = new List<ICharacterAction>();
 
     public void TakeDamage(int dmg)
     {
@@ -22,11 +22,6 @@ public abstract class Character
         {
             Die();
         }
-    }
-    public Character(string name)
-    {
-        Name = name;
-        Actions = new List<ICharacterAction>();
     }
 
     public void PlayAction(int actionNumber, TheFinalBattleGameSingleBattle theFinalBattle)
