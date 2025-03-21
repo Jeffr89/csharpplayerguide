@@ -21,7 +21,7 @@ public class TheFinalBattleGameSingleBattle
         while (!BattleIsOver())
         {
             PlayRound(partyToPlay.GetNextMemberToPlay(), partyToPlay.ControlledBy);
-            Thread.Sleep(500);
+            Thread.Sleep(100);
             Console.WriteLine();
             partyToPlay = partyToPlay == Heroes ? Monsters : Heroes;
 
