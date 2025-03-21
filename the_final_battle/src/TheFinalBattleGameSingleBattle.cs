@@ -1,10 +1,14 @@
+using System.Dynamic;
+using System.Security.Cryptography.X509Certificates;
+
 public class TheFinalBattleGameSingleBattle
 {
     public Party Heroes;
     public Party Monsters { get; private set; }
 
-    public Character MonsterToPlay { get; private set; }
     public Party partyToPlay { get; private set; }
+
+    public Character currentCharacter { get; private set; }
 
     public TheFinalBattleGameSingleBattle(Party heroes, Party monsters)
     {
@@ -20,7 +24,9 @@ public class TheFinalBattleGameSingleBattle
 
         while (!BattleIsOver())
         {
-            PlayRound(partyToPlay.GetNextMemberToPlay(), partyToPlay.ControlledBy);
+            currentCharacter = partyToPlay.GetNextMemberToPlay();
+            UIFinalBattleGame.DisplayBattle(this);
+            PlayRound(currentCharacter, partyToPlay.ControlledBy);
             Thread.Sleep(100);
             Console.WriteLine();
             partyToPlay = partyToPlay == Heroes ? Monsters : Heroes;
@@ -82,8 +88,3 @@ public enum Winner
     Hero,
     UncodedParty
 }
-
-
-
-
-

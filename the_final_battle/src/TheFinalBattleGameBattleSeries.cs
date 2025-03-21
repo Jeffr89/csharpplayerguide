@@ -19,9 +19,11 @@ public class TheFinalBattleGameBattleSeries
 
         foreach (var monsterParty in MonstersParties.ToList())
         {
+            TheFinalBattleGameSingleBattle singleBattle = new(Heroes, monsterParty);
+
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine();
-            TheFinalBattleGameSingleBattle singleBattle = new(Heroes, monsterParty);
+
             singleBattle.Run();
             if (singleBattle.CheckWinner() == Winner.Hero)
             {
