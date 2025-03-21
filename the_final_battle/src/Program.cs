@@ -2,6 +2,7 @@
 List<Character> heroes = new List<Character>();
 List<Character> monsters1 = new List<Character>();
 List<Character> monsters2 = new List<Character>();
+List<Character> monsters3 = new List<Character>();
 
 
 
@@ -11,13 +12,16 @@ heroes.Add(new TrueProgrammer(input.ToUpper()));
 monsters1.Add(new Skeleton());
 monsters2.Add(new Skeleton());
 monsters2.Add(new Skeleton());
+monsters3.Add(new TheUncodedOne());
 
 
 Party heroParty = new Party(heroes, Party.PlayerType.Computer);
 Party monsterParty1 = new Party(monsters1, Party.PlayerType.Computer);
 Party monsterParty2 = new Party(monsters2, Party.PlayerType.Computer);
+Party monsterParty3 = new Party(monsters3, Party.PlayerType.Computer);
 monsterParties.Add(monsterParty1);
 monsterParties.Add(monsterParty2);
+monsterParties.Add(monsterParty3);
 Console.Clear();
 
 TheFinalBattleGameBattleSeries theFinalBattleGame = new(heroParty, monsterParties);

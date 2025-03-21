@@ -8,3 +8,4 @@ public class TrueProgrammer : Character
         Actions.Add(new PunchAttackAction());
     }
 }
+
